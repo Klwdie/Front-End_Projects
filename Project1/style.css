@@ -26,7 +26,7 @@ div.MenuContainer {
 
 #MenuTitle {
 	text-align: center;
-	font-size: 200%;
+	font-size: 175%;
 }
 
 /**MENU**/
@@ -50,7 +50,7 @@ div.ItemTitleHolder {
 /**ITEM TITLE**/
 
 h1.ItemTitle {
-	font-size: 150%;
+	font-size: 125%;
 	text-align: center;
 	display: inline-block;
 	padding: 10px;
@@ -63,6 +63,7 @@ h1.ItemTitle {
 
 div.Description {
 	padding: 10px;
+	font-size: 100%;
 }
 
 /**IDs**/
@@ -119,5 +120,7 @@ div.Description {
 }
 
 @media (max-width: 767px) {
-
+.MenuContainer {
+	padding-bottom: 35px;
+}
 }
