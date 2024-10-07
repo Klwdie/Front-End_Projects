@@ -1,5 +1,5 @@
 # Front-End_Projects
-Viewing: https://klwdie.github.io/Front-End_Projects/<Folder>/index.html
+Viewing: https://klwdie.github.io/Front-End_Projects/Folder/index.html
 
 Project 1:
 Viewing: https://klwdie.github.io/Front-End_Projects/Project1/index.html
